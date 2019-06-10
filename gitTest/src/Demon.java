@@ -4,6 +4,7 @@ public class Demon {
     }
     public void show1() {
         int i= 6;
+        System.out.println(i);
     }
 
 }
