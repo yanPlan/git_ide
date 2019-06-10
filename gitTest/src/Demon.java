@@ -6,7 +6,10 @@ public class Demon {
         int i= 6;
         System.out.println(i);
     }
-
+//  你好
+    public void afterClone() {
+        System.out.println("done");
+    }
 
 
 }
